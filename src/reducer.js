@@ -8,7 +8,6 @@ export const initialState = {
   top_artists: null,
   playing: false,
   item: null,
-  token: null,
 };
 
 const reducer = (state, action) => {
